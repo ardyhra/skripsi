@@ -1,0 +1,26 @@
+gt_text,pred_text,gt_len,pred_len,edit_distance,normalized_edit,iou,det_conf,text_conf,xml_path,image_path
+GJ1KF1111,7296YH,9,6,9,1.0,0.872589,0.83436,0.249678,data_prepared/indian_lp\e1d7921f-5e58-46c7-b4f9-9fd4585508f1___IMG_9072.jpg.xml,data_prepared/indian_lp\e1d7921f-5e58-46c7-b4f9-9fd4585508f1___IMG_9072.jpg.jpeg
+MH01BU1852,CU7788,10,6,9,0.9,0.578399,0.853091,0.516072,data_prepared/indian_lp\video4_2600.xml,data_prepared/indian_lp\video4_2600.jpg
+KL07BF2007,BA446577,10,8,9,0.9,0.672836,0.684232,0.484249,data_prepared/indian_lp\cc80e5c6-2cb7-40f7-a072-3f4cb5a56c65___Dileep_Car_Innova_1.jpg.xml,data_prepared/indian_lp\cc80e5c6-2cb7-40f7-a072-3f4cb5a56c65___Dileep_Car_Innova_1.jpg.jpeg
+MH02FD6534,IB66Q2,10,6,9,0.9,0.597863,0.772317,0.447077,data_prepared/indian_lp\video8_2460.xml,data_prepared/indian_lp\video8_2460.jpg
+BR01AZ6290,C904T9C33,10,9,9,0.9,0.541872,0.765957,0.446693,data_prepared/indian_lp\BR3.xml,data_prepared/indian_lp\BR3.jpg
+DEVANAGRI,MZ00ND,9,6,8,0.8888888888888888,0.610065,0.879799,0.431847,data_prepared/indian_lp\a95a0d9d-5d40-4abb-bd3e-6c6d94bef5b1___IMG_3310.jpg.xml,data_prepared/indian_lp\a95a0d9d-5d40-4abb-bd3e-6c6d94bef5b1___IMG_3310.jpg.jpeg
+GJ7BB766,CT2873,8,6,7,0.875,0.710989,0.695933,0.53925,data_prepared/indian_lp\c795950c-766a-4a2e-9636-62d663d6f06b___62bf1edb36141f114521ec4bb4175579.jpg.xml,data_prepared/indian_lp\c795950c-766a-4a2e-9636-62d663d6f06b___62bf1edb36141f114521ec4bb4175579.jpg.jpeg
+HP896786,U299B2,8,6,7,0.875,0.589105,0.838066,0.467063,data_prepared/indian_lp\18f2e55e-0724-4eee-a28e-5d552a5aa045___20455d0e2dca458f13fbf4da5a2dc118.jpg - Copy.xml,data_prepared/indian_lp\18f2e55e-0724-4eee-a28e-5d552a5aa045___20455d0e2dca458f13fbf4da5a2dc118.jpg - Copy.jpeg
+HP896786,V63655,8,6,7,0.875,0.62949,0.81156,0.224524,data_prepared/indian_lp\18f2e55e-0724-4eee-a28e-5d552a5aa045___20455d0e2dca458f13fbf4da5a2dc118.jpg.xml,data_prepared/indian_lp\18f2e55e-0724-4eee-a28e-5d552a5aa045___20455d0e2dca458f13fbf4da5a2dc118.jpg.jpeg
+DL1N4268,4272T5,8,6,7,0.875,0.58458,0.807277,0.155049,data_prepared/indian_lp\730a2f83-cd53-4943-8922-af9d4fcad415___new_2.xml,data_prepared/indian_lp\730a2f83-cd53-4943-8922-af9d4fcad415___new_2.jpg
+MH01BU1852,E07788,10,6,8,0.8,0.593156,0.86178,0.573417,data_prepared/indian_lp\video4_2590.xml,data_prepared/indian_lp\video4_2590.jpg
+MH01BU1852,707788,10,6,8,0.8,0.542124,0.856308,0.522697,data_prepared/indian_lp\video4_2580.xml,data_prepared/indian_lp\video4_2580.jpg
+MH14EY5972,PH06BV927,10,9,8,0.8,0.588102,0.811672,0.462888,data_prepared/indian_lp\6cd15e75-3e26-41f2-a6aa-b1b58dec1c48___volkswagen-polo-exquisite-limited-edition-m1_720x540.jpg.xml,data_prepared/indian_lp\6cd15e75-3e26-41f2-a6aa-b1b58dec1c48___volkswagen-polo-exquisite-limited-edition-m1_720x540.jpg.jpeg
+OR05AC0422,TP04TT2262,10,10,8,0.8,0.664643,0.759224,0.449946,data_prepared/indian_lp\OD22.xml,data_prepared/indian_lp\OD22.jpg
+MH47AV6753,1A42EF9452,10,10,8,0.8,0.528741,0.800449,0.359193,data_prepared/indian_lp\video11_2370.xml,data_prepared/indian_lp\video11_2370.jpg
+MH14TCF300,1144TG,10,6,8,0.8,0.525479,0.870382,0.326784,data_prepared/indian_lp\8906af57-0d29-417d-ac46-408425527b57___VW-Vento-TDI-CNG-Spy-Pic-2.jpg.xml,data_prepared/indian_lp\8906af57-0d29-417d-ac46-408425527b57___VW-Vento-TDI-CNG-Spy-Pic-2.jpg.jpeg
+MH12SF3212,NH1485,10,6,8,0.8,0.563218,0.796011,0.251619,data_prepared/indian_lp\video8_790.xml,data_prepared/indian_lp\video8_790.jpg
+MP45G0872,TM46C0,9,6,7,0.7777777777777778,0.662689,0.771802,0.636328,data_prepared/indian_lp\MP9.xml,data_prepared/indian_lp\MP9.jpg
+KA5122727,TH222A2277,9,10,7,0.7777777777777778,0.581997,0.845535,0.516444,data_prepared/indian_lp\be483d11-33f0-4c1f-87b6-9844eea28996___1093346d1370435964-take-look-number-plate-photo.jpg.xml,data_prepared/indian_lp\be483d11-33f0-4c1f-87b6-9844eea28996___1093346d1370435964-take-look-number-plate-photo.jpg.jpeg
+MH02EZ2599,MP259995,10,8,7,0.7,0.556667,0.832974,0.745341,data_prepared/indian_lp\video11_1440.xml,data_prepared/indian_lp\video11_1440.jpg
+MH01BD2186,TP02JD2464,10,10,7,0.7,0.580984,0.838035,0.607648,data_prepared/indian_lp\video3_1920.xml,data_prepared/indian_lp\video3_1920.jpg
+MH01BU1852,TU07BU,10,6,7,0.7,0.605548,0.878334,0.551539,data_prepared/indian_lp\video4_2620.xml,data_prepared/indian_lp\video4_2620.jpg
+MH01BD2186,MP02TR2464,10,10,7,0.7,0.524988,0.843285,0.522977,data_prepared/indian_lp\video3_1930.xml,data_prepared/indian_lp\video3_1930.jpg
+DL758Y1790,A3759Y,10,6,7,0.7,0.633778,0.806424,0.455834,data_prepared/indian_lp\21cc678a-b9c5-4bbb-ace0-9e096e799632___unnamed-300x225.jpg - Copy.xml,data_prepared/indian_lp\21cc678a-b9c5-4bbb-ace0-9e096e799632___unnamed-300x225.jpg - Copy.jpeg
+MH01BU1852,1U03B2,10,6,7,0.7,0.591469,0.853818,0.334142,data_prepared/indian_lp\video4_2630.xml,data_prepared/indian_lp\video4_2630.jpg

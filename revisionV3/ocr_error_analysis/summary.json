@@ -1,0 +1,19 @@
+{
+  "rows_total": 1952,
+  "matched_boxes": 1443,
+  "matched_exact": 735,
+  "matched_errors": 708,
+  "matched_exact_rate": 0.5093555093555093,
+  "gt_missed_detection": 252,
+  "pred_false_positives": 257,
+  "aligned_char_accuracy": 0.8881725051937818,
+  "total_gt_chars_aligned": 13959,
+  "total_correct_chars_aligned": 12398,
+  "edit_ops": {
+    "substitutions": 1321,
+    "insertions": 43,
+    "deletions": 240
+  },
+  "mean_text_conf_exact": 0.913090775510204,
+  "mean_text_conf_error": 0.7849956892655366
+}

@@ -125,9 +125,6 @@ Berikut adalah detail evolusi modul OCR pada dataset eksternal **Indian LP (non-
 ```bash
 # Untuk pelatihan detektor & pustaka umum
 pip install -r requirements.txt
-
-# Untuk modul OCR (Transformer, CTC, & Levenshtein)
-pip install -r requirements_ocr.txt
 ```
 
 ### 2. Tahap 1: Deteksi Pelat Nomor (RF-DETR)
